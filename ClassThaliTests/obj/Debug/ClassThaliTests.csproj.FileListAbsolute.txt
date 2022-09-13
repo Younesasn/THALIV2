@@ -58,3 +58,13 @@ C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_Sol
 C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
 C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.dll
 C:\Users\sophi\Desktop\Annee2022-2023\B2_SLAM_SIO2\TP\01TP_POO_C#\THALI\Etud_SolutionThali\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\bin\Debug\ClassThali.dll
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\bin\Debug\ClassThali.pdb
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.AssemblyReference.cache
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+C:\Users\ASSANI\TP01_THALI_Part2\ClassThaliTests\obj\Debug\ClassThaliTests.pdb

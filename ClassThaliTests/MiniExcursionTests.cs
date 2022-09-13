@@ -70,7 +70,6 @@ namespace ClassThali.Tests
             Assert.AreEqual("00:00", ME.DonneDureePrevuehhmm(), "Aucune étape pour la ME, donc durée de 00:00");
             ME.SetLesEtapes(etapesME);
             Assert.AreEqual("01:40", ME.DonneDureePrevuehhmm(), "3 étapes de 10, 60 et 30 min, donc durée de 01:40");
-
         }
 
 

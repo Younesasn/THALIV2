@@ -19,7 +19,6 @@ namespace ClassThali
         {
             this.date = uneDate;
             this.lesMiniExcursionsPlanifiees = new List<MiniExcursionPlanifiee>();
-        }
-              
+        }   
     }
 }
